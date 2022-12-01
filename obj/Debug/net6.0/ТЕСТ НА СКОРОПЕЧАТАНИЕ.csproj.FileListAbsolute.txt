@@ -1,0 +1,15 @@
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\bin\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.exe
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\bin\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.deps.json
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\bin\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.runtimeconfig.json
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\bin\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.dll
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\bin\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.pdb
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\obj\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\obj\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\obj\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\obj\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.AssemblyInfo.cs
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\obj\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\obj\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.dll
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\obj\Debug\net6.0\refint\ТЕСТ НА СКОРОПЕЧАТАНИЕ.dll
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\obj\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.pdb
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\obj\Debug\net6.0\ТЕСТ НА СКОРОПЕЧАТАНИЕ.genruntimeconfig.cache
+C:\Users\KS\source\repos\ТЕСТ НА СКОРОПЕЧАТАНИЕ\ТЕСТ НА СКОРОПЕЧАТАНИЕ\obj\Debug\net6.0\ref\ТЕСТ НА СКОРОПЕЧАТАНИЕ.dll
